@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "license": "MIT",
   "author": "Jochen Leinberger",
-  "description": "Convert Coffee Script to JS and keeps Folder structure in sync. Inspired by: https://github.com/darrinhenein/framer-sketch-boilerplate",
+  "description": "Made for Framer Prototypes. Convert Coffee Script to JS and keeps Folder structure in sync. Inspired by: https://github.com/darrinhenein/framer-sketch-boilerplate",
   "devDependencies": {
     "browser-sync": "^1.8.0",
     "gulp": "^3.9.0",
